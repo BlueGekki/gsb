@@ -1,3 +1,4 @@
 # gsb
 JE TE LIS
-\n<br>MOI AUSSI
+<br>MOI AUSSI
+<br>MAIS T CON C'EST PAS "\n"
